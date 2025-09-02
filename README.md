@@ -6,7 +6,7 @@ First, run the development server:`
 
 I am writting test cases
 
-I am writting test cases for command line
+I am writting test cases for
 
 ```bash
 npm run dev
